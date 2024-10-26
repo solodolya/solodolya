@@ -8,7 +8,7 @@ I'm a beginner frontend developer, and I enjoy creating modern, attractive and u
 ## 💻 Current Technologies
 - **HTML5** | **CSS3** | **JavaScript**
 - **Frameworks**: React (currently learning)
-- **Tools**: Git, GitHub, VS Code
+- **Tools**: Git, GitHub, VS Code, WebStorm
 - **Preprocessors**: Sass
 
 ## 
