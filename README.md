@@ -6,10 +6,10 @@ I'm a beginner frontend developer, and I enjoy creating modern, attractive and u
 ⚡ Fun Fact: I'm changing my career from customs officer to IT, and it was one of the best decisions of my life!
 
 ## 💻 Current Technologies
-- **HTML5** | **CSS3** | **JavaScript**
-- **Frameworks**: React (currently learning)
+- **HTML5** | **CSS3** | **JavaScript** | **TypeScript**
+- **Frameworks**: React, Next.js (currently learning), Tailwind CSS
+- **Libraries**: Redux, MobX, Shadcn UI
 - **Tools**: Git, GitHub, VS Code, WebStorm
-- **Preprocessors**: Sass
 
 ## 
 
